@@ -1,0 +1,9 @@
+div {
+    background-color: deepskyblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    cursor: pointer;
+}
+img {
+    border-radius: 10px;
+}
